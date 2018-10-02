@@ -5,7 +5,7 @@ end
 
 def dove
   puts "Bird"
-  return "Fly"
+  return fly
 end
 puts parrot
 puts dove
