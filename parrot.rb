@@ -1,8 +1,8 @@
 def parrot(bird="Squawk!")
   puts bird
-  return "Squawk!"
+  return "bird"
 end
-phrase= "Pretty Bird"
+"
 parrot()
 parrot("pretty bird")
 parrot
