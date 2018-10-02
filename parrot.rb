@@ -1,11 +1,3 @@
-def parrot
-  puts "Squawk!"
+def parrot(bird="squak")
+  puts bird
 end
-
-
-def dove
-  puts "Bird"
-  return "fly"
-end
-puts parrot
-puts dove
