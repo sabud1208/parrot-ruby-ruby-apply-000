@@ -8,3 +8,4 @@ def dove
   return "Fly"
 end
 puts parrot
+puts dove
