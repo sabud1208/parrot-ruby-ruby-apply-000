@@ -7,3 +7,4 @@ end
 parrot()
 parrot("pretty bird")
 parrot
+parrot(phrase)
