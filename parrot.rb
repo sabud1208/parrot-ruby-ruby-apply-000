@@ -4,3 +4,5 @@ end
 
 parrot()
 parrot("pretty bird")
+parrot
+  
