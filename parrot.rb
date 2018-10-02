@@ -3,4 +3,8 @@ def parrot
 end
 
 
+def dove
+  puts "Bird"
+  return "Fly"
+end
 puts parrot
